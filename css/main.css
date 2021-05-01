@@ -20,7 +20,7 @@
 main {
     padding: 2em;
     text-align: center;
-    background: url(/images/bg-pattern-top-mobile.svg) no-repeat, url(/images/bg-pattern-bottom-mobile.svg) no-repeat;
+    background: url("../images/bg-pattern-top-mobile.svg") no-repeat, url("../images/bg-pattern-bottom-mobile.svg") no-repeat;
     background-position: -1em -2em, 0 70em;
 }
 
@@ -105,7 +105,7 @@ blockquote {
         place-content: center;
         justify-content: center;
         height: 100vh;
-        background: url("/images/bg-pattern-top-desktop.svg") no-repeat, url("/images/bg-pattern-bottom-desktop.svg") no-repeat;
+        background: url("../images/bg-pattern-top-desktop.svg") no-repeat, url("../images/bg-pattern-bottom-desktop.svg") no-repeat;
         background-position: -1em -2em, 65% 100%;
     }
     header {
